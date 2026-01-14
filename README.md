@@ -1,4 +1,4 @@
-# Adawat Services Admin Panel
+# Services Admin Panel
 
 A modern, high-performance admin dashboard for the **Adawat Services** marketplace, built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
